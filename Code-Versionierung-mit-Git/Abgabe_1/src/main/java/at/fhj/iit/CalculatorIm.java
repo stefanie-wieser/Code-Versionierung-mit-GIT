@@ -4,21 +4,22 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public abstract class CalculatorIm implements Calculator{
+public class CalculatorIm implements Calculator{
 
+        static List<Integer> calc1 = new ArrayList<Integer>();
 
+    public int getMaximum(List calc1){
+        List<Integer> sortedList = new ArrayList(calc1);
+        Collections.sort(sortedList);
 
-    public int getMaximum(){
-
-        return 0;
+        return sortedList.get(sortedList.size() -1);
     }
     public int getMinimum() {
-
         return 0;
     }
 
-    public void addValue(List calc, int a){
-        calc.add(a);
+    public void addValue(List calc1, int a){
+        calc1.add(a);
     }
 
 }

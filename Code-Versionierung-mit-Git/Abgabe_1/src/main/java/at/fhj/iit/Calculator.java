@@ -63,7 +63,7 @@ public interface Calculator {
      *
      */
 
-    int getMaximum();
+    int getMaximum(List calc1);
 
     int getMinimum();
 
