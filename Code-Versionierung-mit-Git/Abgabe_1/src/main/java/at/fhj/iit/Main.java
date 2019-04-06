@@ -20,7 +20,8 @@ public class Main {
         calc.addValue(CalculatorIm.calc1,88);
 
         // output lowest number
-        System.out.print(calc.getMinimum(CalculatorIm.calc1);
+        System.out.println(calc.getMinimum(CalculatorIm.calc1));
+
         // output highest number
         System.out.println(calc.getMaximum(CalculatorIm.calc1));
 
