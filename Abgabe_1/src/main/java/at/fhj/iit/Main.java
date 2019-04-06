@@ -20,11 +20,12 @@ public class Main {
         calc.addValue(CalculatorIm.calc1,88);
 
         // output lowest number
-        System.out.print(calc.getMinimum(CalculatorIm.calc1);
+            // System.out.print(getMinimum());
         // output highest number
         System.out.println(calc.getMaximum(CalculatorIm.calc1));
 
         // output sum of all numbers
         System.out.println(calc.sum(CalculatorIm.calc1));
+
     }
 }

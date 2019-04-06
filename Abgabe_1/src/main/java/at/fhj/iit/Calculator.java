@@ -65,7 +65,7 @@ public interface Calculator {
 
     int getMaximum(List calc1);
 
-    int getMinimum(List calc1);
+    int getMinimum();
 
     void addValue(List list, int a);
 
