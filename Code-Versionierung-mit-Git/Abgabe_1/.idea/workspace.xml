@@ -11,6 +11,42 @@
       <change beforePath="$PROJECT_DIR$/target/classes/at/fhj/iit/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/fhj/iit/Calculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/at/fhj/iit/CalculatorIm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/fhj/iit/CalculatorIm.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/at/fhj/iit/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/fhj/iit/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/Code-Versionierung-mit-Git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/at/fhj/iit/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/at/fhj/iit/CalculatorIm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/src/main/java/at/fhj/iit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/target/classes/at/fhj/iit/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/target/classes/at/fhj/iit/CalculatorIm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1/target/classes/at/fhj/iit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code-Versionierung-mit-Git/Abgabe_1_final/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-16">
-              <caret line="460" lean-forward="true" selection-start-line="460" selection-end-line="460" />
+              <caret line="466" lean-forward="true" selection-start-line="466" selection-end-line="466" />
             </state>
           </provider>
         </entry>
@@ -92,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -202,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554547613649" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554549647165" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,7 +330,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12684564" />
@@ -392,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
-          <caret line="460" lean-forward="true" selection-start-line="460" selection-end-line="460" />
+          <caret line="466" lean-forward="true" selection-start-line="466" selection-end-line="466" />
         </state>
       </provider>
     </entry>
