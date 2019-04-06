@@ -14,12 +14,14 @@ public class CalculatorIm implements Calculator{
 
         return sortedList.get(sortedList.size() -1);
     }
-    public int getMinimum() {
-        return 0;
+    public int getMinimum(List calc1) {
+        List<Integer> sortedList = new ArrayList(calc1);
+        Collections.sort(sortedList);
+
+        return sortedList.get(0);
     }
 
     public void addValue(List calc1, int a){
-
         calc1.add(a);
     }
 
@@ -30,7 +32,6 @@ public class CalculatorIm implements Calculator{
 
         for (int s = 0; s < calc1.size(); s++){
             sum += sortedList.get(s);
-
         }
         return sum;
     }
