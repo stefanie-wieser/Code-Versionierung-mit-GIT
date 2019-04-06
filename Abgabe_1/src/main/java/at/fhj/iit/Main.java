@@ -22,9 +22,10 @@ public class Main {
         // output lowest number
             // System.out.print(getMinimum());
         // output highest number
-        System.out.print(calc.getMaximum(CalculatorIm.calc1));
+        System.out.println(calc.getMaximum(CalculatorIm.calc1));
 
         // output sum of all numbers
+        System.out.println(calc.sum(CalculatorIm.calc1));
 
     }
 }

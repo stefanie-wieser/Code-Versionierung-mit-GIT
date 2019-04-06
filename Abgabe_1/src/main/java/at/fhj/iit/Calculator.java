@@ -69,4 +69,5 @@ public interface Calculator {
 
     void addValue(List list, int a);
 
+    int sum(List calc1);
 }
